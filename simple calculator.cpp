@@ -16,6 +16,5 @@ int main()
   cout<<"product is "<<x*y;
   else
   cout<<"enter a valid choice";
-
   return 0;
   }
